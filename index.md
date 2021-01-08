@@ -1,15 +1,11 @@
+# Fxxk this world
 ## Welcome to my blog
 
-You can use the [editor on GitHub](https://github.com/DirTea/myblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+此博客用于记录平时的学习心得
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Click the link to explore
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+https://github.com/DirTea/myblog
 
 # Header 1
 ## Header 2
